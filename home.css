@@ -30,7 +30,22 @@
       border: none;
 
 }
-
+#weather{
+    margin-top: 16px;
+    margin-left: 16px;
+    font-weight: 600;
+    
+}
+ 
+ .remove{
+    display: none;
+ }
+ 
+  #degree {
+     background: transparent;
+     border: none;
+     font-size: 22px;
+ }
 
 
 .mydark{
